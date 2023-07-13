@@ -15,5 +15,40 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+<p align="center">
+    <img width="722" src="https://cdn.discordapp.com/attachments/917183221375049728/945738819527909386/background.png">
+</p>
+-->
+
+
+<h1> Welcome, my name is Makcim </h1>
+    <p align='center'>
+</p>
+
+<!--
+<div size='20px'>Dreaming is the most effective way to plan for the future. Believing is the accurate way to make it happen. :smile: 
+</div>
+-->
+<h2> About Me:</h2>
+
+- 📚 BSc. Software Engineering ;<br>
+- 🎮 I’m passionate about videogames ;<br>
+- 👩🏻‍💻 I love tech, I've knowledge in React, React Native, Typescript, Go, NoSQL databases ;<br>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<h2> Skills: </h2>
+<a href='https://github.com/makcim392'><img width ='40px' src='https://cdn.discordapp.com/attachments/917183221375049728/945747298485428384/html-5.png'></a>
+<a href='https://github.com/makcim392'><img width ='40px' src ='https://cdn.discordapp.com/attachments/917183221375049728/945747297537511464/css.png'></a>
+<a href='https://github.com/makcim392'><img width ='40px' src ='https://cdn.discordapp.com/attachments/917183221375049728/945747298930032730/javascript.png'></a>
+<a href='https://github.com/makcim392'><img width ='40px' src ='https://cdn.discordapp.com/attachments/917183221375049728/945747299835998278/reagir.png'></a>
+<a href='https://github.com/makcim392'><img width ='40px' src ='https://cdn.discordapp.com/attachments/917183221375049728/945747299378790460/nodejs.png'></a>
+<a href='https://github.com/makcim392'><img width ='40px' src ='https://cdn.discordapp.com/attachments/917183221375049728/945747299198455859/mysql.png'></a>
+<a href='https://github.com/makcim392'><img width='40px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png'></a>
+
+<h2>Stats:</h2>
+</br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makcim392)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=makcim392)](https://git.io/streak-stats)
