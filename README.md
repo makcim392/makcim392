@@ -22,6 +22,8 @@
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/gopher.svg'></a>
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/mysql-icon.svg'></a>
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/aws.svg'></a>
+<a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/aws-dynamodb.svg'></a>
+<a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/aws-kinesis.svg'></a>
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/datadog.svg'></a>
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/kibana.svg'></a>
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/new-relic-icon.svg'></a>
