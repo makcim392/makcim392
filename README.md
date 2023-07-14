@@ -1,60 +1,39 @@
-### Hi there 👋
-
-<!--
-**makcim392/makcim392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
+<h1 align="center">Welcome to my GitHub profile!</h1>
 <p align="center">
-    <img width="722" src="https://cdn.discordapp.com/attachments/917183221375049728/945738819527909386/background.png">
-</p>
--->
-
-
-<h1> Welcome, my name is Makcim </h1>
-    <p align='center'>
+  <img src="https://i.imgur.com/fE5XvUw.png" alt="Banner" width="100%">
 </p>
 
-<!--
-<div size='20px'>Dreaming is the most effective way to plan for the future. Believing is the accurate way to make it happen. :smile: 
+
+<div align="center">
+  <h2>About Me</h2>
 </div>
--->
-<h2> About Me:</h2>
-
+<p>
 - 📚 BSc. Software Engineering ;<br>
 - 🎮 I’m passionate about videogames ;<br>
 - 👩🏻‍💻 I love tech, I've knowledge in React, React Native, Typescript, Go, NoSQL databases ;<br>
+</p>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<div align="center">
+  <h2>Skills</h2>
+</div>
 
-<h2> Skills: </h2>
-
-
-
+<p align="center">
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/go.svg'></a>
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/gopher.svg'></a>
+<a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/mysql-icon.svg'></a>
+<a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/aws.svg'></a>
+<a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/datadog.svg'></a>
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/google-cloud.svg'></a>
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/typescript-icon.svg'></a>
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/javascript.svg'></a>
 <a href='https://github.com/makcim392'><img width='40px' height='40px' src='https://cdn.svgporn.com/logos/nodejs-icon.svg'></a>
 <a href='https://github.com/makcim392'><img width='40px' height='40px' src='https://cdn.svgporn.com/logos/python.svg'></a>
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/lua.svg'></a>
-<a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/mysql-icon.svg'></a>
 
-<h2>Stats:</h2>
-</br>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, feel free to reach out to me.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=makcim392&theme=dark)](https://git.io/streak-stats)
+Let's create amazing things together! 😄
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark) [![GitHub Streak](https://streak-stats.demolab.com/?user=makcim392&theme=dark)](https://git.io/streak-stats)
