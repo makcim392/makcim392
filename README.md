@@ -18,6 +18,7 @@
 </div>
 
 <p align="center">
+  
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/go.svg'></a>
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/gopher.svg'></a>
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/mysql-icon.svg'></a>
