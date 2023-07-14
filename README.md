@@ -39,6 +39,6 @@ Feel free to explore my repositories and projects. If you have any questions or 
 
 Let's create amazing things together! 😄
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makcim392&show_icons=true&theme=dark)
 
 <!--  [![GitHub Streak](https://streak-stats.demolab.com/?user=makcim392&theme=dark)](https://git.io/streak-stats) -->
