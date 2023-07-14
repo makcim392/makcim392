@@ -39,18 +39,22 @@ Here are some ideas to get you started:
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <h2> Skills: </h2>
-<a href='https://github.com/makcim392'><img width ='40px' src='https://cdn.discordapp.com/attachments/917183221375049728/945747298485428384/html-5.png'></a>
-<a href='https://github.com/makcim392'><img width ='40px' src ='https://cdn.discordapp.com/attachments/917183221375049728/945747297537511464/css.png'></a>
-<a href='https://github.com/makcim392'><img width ='40px' src ='https://cdn.discordapp.com/attachments/917183221375049728/945747298930032730/javascript.png'></a>
-<a href='https://github.com/makcim392'><img width ='40px' src ='https://cdn.discordapp.com/attachments/917183221375049728/945747299835998278/reagir.png'></a>
-<a href='https://github.com/makcim392'><img width ='40px' src ='https://cdn.discordapp.com/attachments/917183221375049728/945747299378790460/nodejs.png'></a>
-<a href='https://github.com/makcim392'><img width ='40px' src ='https://cdn.discordapp.com/attachments/917183221375049728/945747299198455859/mysql.png'></a>
-<a href='https://github.com/makcim392'><img width='40px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png'></a>
+
+
+
+<a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/go.svg'></a>
+<a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/gopher.svg'></a>
+<a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/google-cloud.svg'></a>
+<a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/typescript-icon.svg'></a>
+<a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/javascript.svg'></a>
+<a href='https://github.com/makcim392'><img width='40px' height='40px' src='https://cdn.svgporn.com/logos/nodejs-icon.svg'></a>
+<a href='https://github.com/makcim392'><img width='40px' height='40px' src='https://cdn.svgporn.com/logos/python.svg'></a>
+<a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/lua.svg'></a>
+<a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/mysql-icon.svg'></a>
 
 <h2>Stats:</h2>
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makcim392&show_icons=true&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=makcim392)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=catppuccino-mocha)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=makcim392&theme=dark)](https://git.io/streak-stats)
