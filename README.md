@@ -18,7 +18,6 @@
 </div>
 
 <p align="center">
-  
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/go.svg'></a>
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/gopher.svg'></a>
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/mysql-icon.svg'></a>
@@ -31,7 +30,6 @@
 <a href='https://github.com/makcim392'><img width='40px' height='40px' src='https://cdn.svgporn.com/logos/nodejs-icon.svg'></a>
 <a href='https://github.com/makcim392'><img width='40px' height='40px' src='https://cdn.svgporn.com/logos/python.svg'></a>
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/lua.svg'></a>
-
 </p>
 
 Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, feel free to reach out to me.
