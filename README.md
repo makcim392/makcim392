@@ -10,7 +10,7 @@
 <p>
 - 📚 BSc. Software Engineering ;<br>
 - 🎮 I’m passionate about videogames ;<br>
-- 👩🏻‍💻 I love tech, I've knowledge in React, React Native, Typescript, Go, NoSQL databases ;<br>
+- 👩🏻‍💻 I love tech, I've worked with Go, React, NoSQL databases, Typescript  ;<br>
 </p>
 
 <div align="center">
