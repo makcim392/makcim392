@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">
-  <h2>Skills</h2>
+  <h2>Stack</h2>
 </div>
 
 <p align="center">
@@ -23,6 +23,7 @@
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/mysql-icon.svg'></a>
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/aws.svg'></a>
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/datadog.svg'></a>
+<a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/kibana.svg'></a>
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/google-cloud.svg'></a>
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/typescript-icon.svg'></a>
 <a href='https://github.com/makcim392'><img width ='40px' height='40px' src ='https://cdn.svgporn.com/logos/javascript.svg'></a>
