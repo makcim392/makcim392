@@ -9,7 +9,7 @@
 </div>
 <p>
 - 📚 BSc. Software Engineering ;<br>
-- 🎮 I’m passionate about videogames ;<br>
+- 🎮 I’m passionate about cloud and infrastructure ;<br>
 - 👩🏻‍💻 I love tech, I've worked with Go, React, NoSQL databases, Typescript  ;<br>
 </p>
 
